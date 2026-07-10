@@ -2,7 +2,7 @@ import axios from "axios"
 
 
 const api = axios.create({
-    baseURL: "https://job-cast-ai-frontend.vercel.app",
+    baseURL: "https://jobcastai.onrender.com",
     withCredentials: true
 })
 
